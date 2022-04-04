@@ -16,10 +16,10 @@
 [fgo-farm-report-collection](https://github.com/silverag-corgi/fgo-farm-report-collection)
 で周回報告を自動的に収集・集計し、Webで公開しています。
 
-- [周回報告ユーザ全体概要](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ__79TwerLbvrwbeNJo1S8mQO4phiD4y0qwBw7pomOBSE8t44UDtMrCqMuyDZd4g/pubhtml)
+- [周回報告ユーザ全体概要](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXSRzQvhFYMx430bwbSavdzIo5uo7e9NYnVZDTZJNUW5oI7mHJcWkdi0GV_YPYQg/pubhtml)
   - 指定した年月およびクエスト種別のユーザ(Twitter)ごとの周回概要
 
-- [周回報告クエスト全体概要](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMnvKfmloQzKbZLgMU1GrThZic-yLE5AmC9T0Ipw_9TESI_mH67DBP0vAywbLV3Q/pubhtml)
+- [周回報告クエスト全体概要](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnHSDy7kFA4X-ICwTq5yYOx8nBU2DSMfHRJ04-Qt2_zg5nuWc1HdMTOYPzRFEWAQ/pubhtml)
   - 指定した年月およびクエスト種別のクエストごとの周回概要
 
 
