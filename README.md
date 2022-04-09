@@ -17,12 +17,12 @@
 で周回報告を機械的に収集・集計し、Webで公開しています。
 
 - 月およびクエスト種別ごとの周回数ランキング(ユーザ編)
-  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXSRzQvhFYMx430bwbSavdzIo5uo7e9NYnVZDTZJNUW5oI7mHJcWkdi0GV_YPYQg/pubhtml)
   - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1fupclGtdYSTMs-s9vOjQZPr3D9nF18bL/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
+  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXSRzQvhFYMx430bwbSavdzIo5uo7e9NYnVZDTZJNUW5oI7mHJcWkdi0GV_YPYQg/pubhtml)
 
 - 月およびクエスト種別ごとの周回数ランキング(クエスト編)
-  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnHSDy7kFA4X-ICwTq5yYOx8nBU2DSMfHRJ04-Qt2_zg5nuWc1HdMTOYPzRFEWAQ/pubhtml)
   - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1g-I1Y0GCjGdsE4ia3qTlaoPdF3DtpMCm/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
+  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnHSDy7kFA4X-ICwTq5yYOx8nBU2DSMfHRJ04-Qt2_zg5nuWc1HdMTOYPzRFEWAQ/pubhtml)
 
 ※クエスト種別には「通常クエ、イベクエ、全てのクエスト」の3種類があります。
 
@@ -36,8 +36,8 @@
 | ------------ | ------- | ---------------------------- |
 | マスレベ     | 160     | 2021/05/05達成               |
 | スキルマ     | 242     | 2022/03/30所持鯖スキルマ達成 |
-| 絆マ         | 78      |                              |
-| 100礼装      | 23      |                              |
+| 絆マ         | 78      | 2022/03/16                   |
+| 100礼装      | 24      | 2022/03/20                   |
 | プレイ開始月 | 2016/02 |                              |
 
 
