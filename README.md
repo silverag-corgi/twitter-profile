@@ -16,11 +16,11 @@
 [fgo-farm-report-collection](https://github.com/silverag-corgi/fgo-farm-report-collection)
 で周回報告を機械的に収集・集計し、Webで公開しています。
 
-- 月およびクエスト種別ごとの周回数ランキング(ユーザ編)
+- 月およびクエスト種別ごとの周回数(ユーザ編)
   - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1fupclGtdYSTMs-s9vOjQZPr3D9nF18bL/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
   - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXSRzQvhFYMx430bwbSavdzIo5uo7e9NYnVZDTZJNUW5oI7mHJcWkdi0GV_YPYQg/pubhtml)
 
-- 月およびクエスト種別ごとの周回数ランキング(クエスト編)
+- 月およびクエスト種別ごとの周回数(クエスト編)
   - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1g-I1Y0GCjGdsE4ia3qTlaoPdF3DtpMCm/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
   - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnHSDy7kFA4X-ICwTq5yYOx8nBU2DSMfHRJ04-Qt2_zg5nuWc1HdMTOYPzRFEWAQ/pubhtml)
 
