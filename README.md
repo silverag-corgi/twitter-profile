@@ -11,18 +11,17 @@
 次はAS2マを目指して周回していきます。
 
 
-# 2. 周回報告まとめ
+# 2. 周回報告集計
 
 [fgo-farm-report-collection](https://github.com/silverag-corgi/fgo-farm-report-collection)
 で周回報告を機械的に収集・集計し、Webで公開しています。
 
-- 月およびクエスト種別ごとの周回数(ユーザ編)
-  - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1fupclGtdYSTMs-s9vOjQZPr3D9nF18bL/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
-  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXSRzQvhFYMx430bwbSavdzIo5uo7e9NYnVZDTZJNUW5oI7mHJcWkdi0GV_YPYQg/pubhtml)
-
-- 月およびクエスト種別ごとの周回数(クエスト編)
-  - [スプレッドシート版](https://docs.google.com/spreadsheets/d/1g-I1Y0GCjGdsE4ia3qTlaoPdF3DtpMCm/edit?usp=sharing&ouid=106816149049152778475&rtpof=true&sd=true)
-  - [Webサイト版](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnHSDy7kFA4X-ICwTq5yYOx8nBU2DSMfHRJ04-Qt2_zg5nuWc1HdMTOYPzRFEWAQ/pubhtml)
+1. クエスト種別ごとの月間周回数(ユーザ編)
+   - [スプレッドシート版](bit.ly/frusrss)
+   - [Webサイト版](bit.ly/frusrws)
+2. クエスト種別ごとの月間周回数(クエスト編)
+   - [スプレッドシート版](bit.ly/frqstss)
+   - [Webサイト版](bit.ly/frqstws)
 
 ※クエスト種別には「通常クエ、イベクエ、全てのクエスト」の3種類があります。
 
