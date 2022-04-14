@@ -16,12 +16,18 @@
 [fgo-farm-report-collection](https://github.com/silverag-corgi/fgo-farm-report-collection)
 で周回報告を機械的に収集・集計し、Webで公開しています。
 
+1. クエスト種別ごとの年間周回数(ユーザ編)
+   - [スプレッドシート版](https://bit.ly/fyusrss)
+   - [Webサイト版](https://bit.ly/fyusrws)
+1. クエスト種別ごとの年間周回数(クエスト編)
+   - [スプレッドシート版](https://bit.ly/fyqstss)
+   - [Webサイト版](https://bit.ly/fyqstws)
 1. クエスト種別ごとの月間周回数(ユーザ編)
-   - [スプレッドシート版](bit.ly/frusrss)
-   - [Webサイト版](bit.ly/frusrws)
-2. クエスト種別ごとの月間周回数(クエスト編)
-   - [スプレッドシート版](bit.ly/frqstss)
-   - [Webサイト版](bit.ly/frqstws)
+   - [スプレッドシート版](https://bit.ly/frusrss)
+   - [Webサイト版](https://bit.ly/frusrws)
+1. クエスト種別ごとの月間周回数(クエスト編)
+   - [スプレッドシート版](https://bit.ly/frqstss)
+   - [Webサイト版](https://bit.ly/frqstws)
 
 ※クエスト種別には「通常クエ、イベクエ、全てのクエスト」の3種類があります。
 
